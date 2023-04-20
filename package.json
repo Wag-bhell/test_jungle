@@ -1,0 +1,14 @@
+{
+    "name": "test_jungle",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.32.3",
+        "jimp": "^0.22.7"
+    }
+}
